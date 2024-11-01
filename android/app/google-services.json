@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194145558551",
+    "project_id": "coco-97d62",
+    "storage_bucket": "coco-97d62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194145558551:android:29736284ab3f6c4bb7bc52",
+        "android_client_info": {
+          "package_name": "com.coco_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ8_uYw3_ayoTVHpwnyvlQjDjJiZkPXgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
